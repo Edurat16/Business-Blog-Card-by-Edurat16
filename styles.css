@@ -57,8 +57,30 @@ p {
 }
 
 #avatar {
-  margin: 24px 24px 24px;
+  margin: 31px 24px 21px;
+  margin-right: 10px;
   border-radius: 100%;
-  width: 42px;
+  width: 33px;
   border: 5px solid #F2F5F9;
+}
+
+#name {
+  padding-top: 20px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  font-family: "Lato";
+  font-size: 16px;;
+  font-weight: 700;
+}
+
+#txt {
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+small {
+  font-family: "Lato";
+  color: #677489;
+  margin-top: 0px;
+  margin-left: 0px;
 }
